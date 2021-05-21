@@ -14,3 +14,6 @@ Hacked from:
 - https://github.com/chiemiko/docker-timer
 - https://css-tricks.com/how-to-create-an-animated-countdown-timer-with-html-css-and-javascript/
  
+## Also available on Dockhub
+
+image: specialcircumstances/countdown-timer
